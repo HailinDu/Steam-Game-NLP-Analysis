@@ -52,3 +52,6 @@ We have total 5 models in this NLP Analysis using Text without Stopswords:
 5. Support-Vector Machine - 82.51% accuracy 
 
 ![models](https://raw.githubusercontent.com/HailinDu/Steam-Game-NLP-Analysis-Civlization-6/main/Images/Models.png)
+
+##### Reference
+[israel-dryer](https://github.com/israel-dryer/Steam-Game-Review-Scraper) - Steam-Game-Review-Scraper
