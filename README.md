@@ -38,7 +38,7 @@ The dataset after web scarping contains 10663 reviews with the following columns
 1. The game has spyware that collects players' information
 2. the ai issue
 3. the game will crash and unplayable
-4. Mac book users 
+4. Mac book users may encounter gaming issues
 5. DLC, updates, and extended version
 6. Ask for a fix
 7. Comparison with Civilization 5
