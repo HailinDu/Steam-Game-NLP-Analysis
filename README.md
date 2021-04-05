@@ -40,3 +40,6 @@ The dataset after web scarping contains 10663 reviews with the following columns
 6. Ask for a fix
 7. Comparison with Civilization 5
 
+### Words Imporatnce
+
+### Models Comparsion 
