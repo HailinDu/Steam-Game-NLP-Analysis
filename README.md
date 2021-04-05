@@ -44,4 +44,11 @@ The dataset after web scarping contains 10663 reviews with the following columns
 7. Comparison with Civilization 5
 
 ### Models Comparsion 
+We have total 5 models in this NLP Analysis using Text without Stopswords:
+1. Naive Bayes - 80.07% accuracy 
+2. Random Forest - 78.48% accuracy 
+3. Logistic Regression - 81.76% accuracy 
+4. Stochastic Gradient Descent - 81.81% accuracy 
+5. Support-Vector Machine - 82.51% accuracy 
+
 ![models](https://raw.githubusercontent.com/HailinDu/Steam-Game-NLP-Analysis-Civlization-6/main/Images/Models.png)
