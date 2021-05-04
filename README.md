@@ -53,5 +53,11 @@ We have total 5 models in this NLP Analysis using Text without Stopswords:
 
 ![models](https://raw.githubusercontent.com/HailinDu/Steam-Game-NLP-Analysis-Civlization-6/main/Images/Models.png)
 
+## Flask Development 
+We can create a web application for anyone who is interested in this game to see if the game fits the gamer by typing a few words or a few sentences. 
+
+
+
+
 ##### Reference
 [israel-dryer](https://github.com/israel-dryer/Steam-Game-Review-Scraper) - Steam-Game-Review-Scraper
