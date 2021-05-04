@@ -54,7 +54,13 @@ We have total 5 models in this NLP Analysis using Text without Stopswords:
 ![models](https://raw.githubusercontent.com/HailinDu/Steam-Game-NLP-Analysis-Civlization-6/main/Images/Models.png)
 
 ## Flask Development 
-We can create a web application for anyone who is interested in this game to see if the game fits the gamer by typing a few words or a few sentences. 
+We can create a web application for anyone who is interested in this game to see if the game fits the gamer by typing a few words or a few sentences.
+
+The Flask consists of 4 files with corresponding file systems. 
+1. the actual flask app (app.py).
+2. the template folder (home.html and result.html - actual webpage).
+3. the static folder (style.css - webpage style).
+4. dataset or pre-trained model.
 
 **Predict - Result 1**
 
