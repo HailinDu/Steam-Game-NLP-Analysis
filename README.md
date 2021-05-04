@@ -60,13 +60,13 @@ We can create a web application for anyone who is interested in this game to see
 
 <img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict1.PNG" width="400" height="200">
 
-<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result1.PNG" width="400" height="200">
+<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result1.PNG" width="500" height="220">
 
 **Predict - Result 2**
 
 <img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict2.PNG" width="400" height="200">
 
-<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result2.PNG" width="400" height="200">
+<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result2.PNG" width="500" height="220">
 
 
 ##### Reference
