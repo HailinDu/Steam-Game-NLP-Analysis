@@ -58,12 +58,16 @@ We can create a web application for anyone who is interested in this game to see
 
 **Predict - Result 1**
 
-![predict1](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict1.PNG)
-![result1](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result1.PNG)
+<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict1.PNG" width="400" height="200">
+
+<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result1.PNG" width="400" height="200">
 
 **Predict - Result 2**
-![predict2](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict2.PNG)
-![result2](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result2.PNG)
+
+<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict2.PNG" width="400" height="200">
+
+<img src="https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result2.PNG" width="400" height="200">
+
 
 ##### Reference
 [israel-dryer](https://github.com/israel-dryer/Steam-Game-Review-Scraper) - Steam-Game-Review-Scraper
