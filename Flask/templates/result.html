@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+ 
+	<header>
+		<div class="container">
+		<div id="brandname">
+			Logistic Regression ML
+            <br>
+            <br> The accuracy of the model is 82%, so not always correct!
+		</div>
+		<h2>Civilization VI Recommendation Prediction</h2>
+		
+	</div>
+	</header>
+	<p style="color:rgb(0, 0, 0);font-size:20;text-align: left;"><b>Results for Your Comment</b></p>
+	<div class="results">
+ 
+ 
+		
+	{% if prediction == 1%}
+	<h2 style="color:rgb(66, 108, 224);">Recommend to play Civilization VI</h2>
+	{% elif prediction == 0%}
+	<h2 style="color:rgb(235, 63, 63);">Not Recommend to play Civilization VI</h2>
+	{% endif %}
+ 
+	</div>
+ 
+</body>
+</html>
