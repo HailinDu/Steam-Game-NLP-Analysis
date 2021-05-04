@@ -56,8 +56,14 @@ We have total 5 models in this NLP Analysis using Text without Stopswords:
 ## Flask Development 
 We can create a web application for anyone who is interested in this game to see if the game fits the gamer by typing a few words or a few sentences. 
 
+**Predict - Result 1**
 
+![predict1](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict1.PNG)
+![result1](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result1.PNG)
 
+**Predict - Result 2**
+![predict2](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Predict2.PNG)
+![result2](https://github.com/HailinDu/Steam-Game-NLP-Analysis/blob/main/Images/Result2.PNG)
 
 ##### Reference
 [israel-dryer](https://github.com/israel-dryer/Steam-Game-Review-Scraper) - Steam-Game-Review-Scraper
